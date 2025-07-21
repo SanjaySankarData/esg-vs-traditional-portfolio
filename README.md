@@ -85,9 +85,9 @@ Find my attatched picture of the visualization called:
 Next, I took my new portfolio_summary into Tablaeu.
 The dashboard includes:
 A dual-axis line chart comparing average growth and risk by portfolio type over time.
-
-
 A side-by-side bar chart showing average performance and risk for ESG vs Traditional.
+A scatterplot showing each portfolio’s tradeoff between risk and return.
+Check out my Dashboard here: https://public.tableau.com/views/ESGvsTraditionalStocksPerformance/ESGvsTrad_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 To restate the conclusion for this project; Based on 10 years of data, ESG portfolios outperformed traditional portfolios both in return and risk, suggesting they are a more efficient investment choice.
 
 
