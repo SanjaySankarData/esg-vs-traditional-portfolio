@@ -10,6 +10,22 @@ Data Set Used:company_esg_financial_dataset.csv (Kaggle)
 
 Conclusion: Based on 10 years of data, ESG portfolios outperformed traditional portfolios both in return and risk, suggesting they are a more efficient investment choice.
 
+# Files in This Repository
+
+| File Name                        | Description                                      |
+|----------------------------------|--------------------------------------------------|
+| `company_esg_financial_dataset.csv` | Raw dataset from Kaggle                         |
+| `portfolio_summary.csv`           | Output summary: avg growth and risk by year     |
+| `Rplot ESG VS TRAD.png`           | Line plot: ESG vs Traditional growth            |
+| `ESG vs Trad. Dashboard.png`      | Tableau dashboard image                         |
+| `ESG vs Traditional Stocks Performance.twb` | Tableau workbook file (I added a link if file does not work) |
+| `README.md`                       | Project overview and code explanations and exact code I used with R-Studio |
+
+# Tools Used
+- **R / RStudio** – Data cleaning, transformation, and visualization
+- **Tableau** – Interactive dashboards
+- **Excel** – Light summarization
+- **GitHub** – Version control & documentation
 
 
 #First I’m going to LOAD the dataset using R. 
