@@ -80,9 +80,9 @@ labs(
 
 #After running the code, I now have a simple visualization. 
 Find my attatched picture of the visualization called:
-"Average Growth Rate by Portfolio Over Time"
+"Average Growth Rate by Portfolio Over Time" linked in the Rplot "ESG VS TRAD.png" part of my repository. 
 
-Next, I took my new portfolio_summary into Tablaeu.
+Next, I took my new portfolio_summary into Tableau.
 The dashboard includes:
 A dual-axis line chart comparing average growth and risk by portfolio type over time.
 A side-by-side bar chart showing average performance and risk for ESG vs Traditional.
